@@ -1,0 +1,33 @@
+body{
+    background-color:greenyellow
+}
+h1 {
+font-size: 250%;
+text-align: center;
+/* color: lawngreen;*/
+background-color:greenyellow
+}
+h2 {
+font-size: 250%;
+text-align: center;
+background-color:greenyellow
+
+}
+p {
+font-size:200%;
+background-color:greenyellow
+}
+ul{
+font-size:150%;
+Line-Height: 170%;
+background-color:greenyellow
+}
+
+
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color:greenyellow
+}
+
